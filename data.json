@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "bwmarrin/discordgo",
+    "stargazers_count": 2038,
+    "open_issues_count": 66,
+    "forks_count": 389
+  },
+  {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 426,
-    "open_issues_count": 34,
+    "open_issues_count": 36,
     "forks_count": 120
   },
   {
     "full_name": "CyberPunkMetalHead/Binance-volatility-trading-bot",
-    "stargazers_count": 1194,
-    "open_issues_count": 31,
-    "forks_count": 210
+    "stargazers_count": 1270,
+    "open_issues_count": 27,
+    "forks_count": 219
   }
 ]
