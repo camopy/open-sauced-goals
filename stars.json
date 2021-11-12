@@ -1,8 +1,8 @@
 [
   {
     "full_name": "google/cadvisor",
-    "stargazers_count": 12713,
-    "open_issues_count": 489,
+    "stargazers_count": 12721,
+    "open_issues_count": 493,
     "forks_count": 1900
   },
   {
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "shopspring/decimal",
-    "stargazers_count": 3486,
-    "open_issues_count": 68,
-    "forks_count": 404
+    "stargazers_count": 3495,
+    "open_issues_count": 70,
+    "forks_count": 405
   },
   {
     "full_name": "saniales/golang-crypto-trading-bot",
-    "stargazers_count": 634,
+    "stargazers_count": 635,
     "open_issues_count": 10,
-    "forks_count": 158
+    "forks_count": 159
   },
   {
     "full_name": "bernaferrari/CashBalancer",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "pressly/goose",
-    "stargazers_count": 1969,
+    "stargazers_count": 1977,
     "open_issues_count": 30,
     "forks_count": 290
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "go-ping/ping",
-    "stargazers_count": 780,
-    "open_issues_count": 21,
-    "forks_count": 257
+    "stargazers_count": 781,
+    "open_issues_count": 22,
+    "forks_count": 258
   },
   {
     "full_name": "beyonk-adventures/svelte-carousel",
     "stargazers_count": 172,
     "open_issues_count": 25,
-    "forks_count": 34
+    "forks_count": 33
   },
   {
     "full_name": "radovskyb/watcher",
@@ -62,19 +62,19 @@
   {
     "full_name": "zloylos/grsync",
     "stargazers_count": 62,
-    "open_issues_count": 6,
-    "forks_count": 31
+    "open_issues_count": 5,
+    "forks_count": 32
   },
   {
     "full_name": "robfig/cron",
-    "stargazers_count": 8701,
+    "stargazers_count": 8711,
     "open_issues_count": 74,
     "forks_count": 1256
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 4211,
-    "open_issues_count": 30,
+    "stargazers_count": 4220,
+    "open_issues_count": 31,
     "forks_count": 194
   },
   {
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "diamondburned/arikawa",
-    "stargazers_count": 228,
+    "stargazers_count": 231,
     "open_issues_count": 15,
     "forks_count": 34
   },
   {
     "full_name": "bwmarrin/discordgo",
-    "stargazers_count": 2469,
-    "open_issues_count": 111,
-    "forks_count": 484
+    "stargazers_count": 2475,
+    "open_issues_count": 112,
+    "forks_count": 485
   },
   {
     "full_name": "udhos/update-golang",
-    "stargazers_count": 1243,
+    "stargazers_count": 1247,
     "open_issues_count": 2,
     "forks_count": 158
   },
@@ -115,20 +115,20 @@
   },
   {
     "full_name": "CyberPunkMetalHead/Binance-volatility-trading-bot",
-    "stargazers_count": 2920,
-    "open_issues_count": 24,
-    "forks_count": 635
+    "stargazers_count": 2928,
+    "open_issues_count": 25,
+    "forks_count": 642
   },
   {
     "full_name": "gcanti/io-ts",
-    "stargazers_count": 4996,
+    "stargazers_count": 5004,
     "open_issues_count": 114,
     "forks_count": 245
   },
   {
     "full_name": "jthegedus/svelte-adapter-firebase",
-    "stargazers_count": 73,
-    "open_issues_count": 10,
+    "stargazers_count": 74,
+    "open_issues_count": 9,
     "forks_count": 16
   },
   {
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "svelte-add/svelte-add",
-    "stargazers_count": 503,
-    "open_issues_count": 21,
+    "stargazers_count": 504,
+    "open_issues_count": 22,
     "forks_count": 11
   },
   {
     "full_name": "dasDaniel/svelte-table",
-    "stargazers_count": 243,
-    "open_issues_count": 7,
+    "stargazers_count": 245,
+    "open_issues_count": 8,
     "forks_count": 22
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "full_name": "Ashlar/binance-api-node",
-    "stargazers_count": 405,
-    "open_issues_count": 70,
-    "forks_count": 388
+    "stargazers_count": 407,
+    "open_issues_count": 67,
+    "forks_count": 387
   }
 ]
