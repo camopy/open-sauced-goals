@@ -1,13 +1,13 @@
 [
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 4311,
+    "stargazers_count": 4336,
     "open_issues_count": 35,
-    "forks_count": 198
+    "forks_count": 197
   },
   {
     "full_name": "rodrigo-brito/ninjabot",
-    "stargazers_count": 893,
+    "stargazers_count": 894,
     "open_issues_count": 6,
     "forks_count": 70
   },
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "bwmarrin/discordgo",
-    "stargazers_count": 2515,
+    "stargazers_count": 2520,
     "open_issues_count": 118,
-    "forks_count": 495
+    "forks_count": 496
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 550,
+    "stargazers_count": 551,
     "open_issues_count": 26,
     "forks_count": 155
   },
@@ -33,6 +33,6 @@
     "full_name": "CyberPunkMetalHead/Binance-volatility-trading-bot",
     "stargazers_count": 2954,
     "open_issues_count": 25,
-    "forks_count": 660
+    "forks_count": 661
   }
 ]
