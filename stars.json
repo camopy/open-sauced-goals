@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Rich-Harris/svelte-cubed",
-    "stargazers_count": 996,
+    "stargazers_count": 1000,
     "open_issues_count": 45,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "LottieFiles/svelte-lottie-player",
@@ -13,31 +13,31 @@
   },
   {
     "full_name": "xtaci/kcptun",
-    "stargazers_count": 12902,
+    "stargazers_count": 12908,
     "open_issues_count": 88,
-    "forks_count": 2492
+    "forks_count": 2490
   },
   {
     "full_name": "google/cadvisor",
-    "stargazers_count": 13499,
+    "stargazers_count": 13516,
     "open_issues_count": 570,
-    "forks_count": 2044
+    "forks_count": 2045
   },
   {
     "full_name": "sveltejs/svelte-scroller",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 10,
     "forks_count": 25
   },
   {
     "full_name": "shopspring/decimal",
-    "stargazers_count": 4112,
+    "stargazers_count": 4121,
     "open_issues_count": 88,
-    "forks_count": 474
+    "forks_count": 475
   },
   {
     "full_name": "saniales/golang-crypto-trading-bot",
-    "stargazers_count": 784,
+    "stargazers_count": 785,
     "open_issues_count": 11,
     "forks_count": 210
   },
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "pressly/goose",
-    "stargazers_count": 2722,
-    "open_issues_count": 51,
+    "stargazers_count": 2733,
+    "open_issues_count": 49,
     "forks_count": 339
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "go-ping/ping",
-    "stargazers_count": 933,
+    "stargazers_count": 938,
     "open_issues_count": 32,
     "forks_count": 293
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "radovskyb/watcher",
-    "stargazers_count": 1197,
+    "stargazers_count": 1198,
     "open_issues_count": 45,
     "forks_count": 149
   },
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "robfig/cron",
-    "stargazers_count": 9787,
-    "open_issues_count": 94,
-    "forks_count": 1381
+    "stargazers_count": 9810,
+    "open_issues_count": 98,
+    "forks_count": 1383
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 7289,
-    "open_issues_count": 54,
-    "forks_count": 266
+    "stargazers_count": 7314,
+    "open_issues_count": 55,
+    "forks_count": 268
   },
   {
     "full_name": "rodrigo-brito/ninjabot",
-    "stargazers_count": 988,
+    "stargazers_count": 995,
     "open_issues_count": 14,
     "forks_count": 100
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "bwmarrin/discordgo",
-    "stargazers_count": 3112,
+    "stargazers_count": 3118,
     "open_issues_count": 94,
-    "forks_count": 600
+    "forks_count": 599
   },
   {
     "full_name": "udhos/update-golang",
@@ -123,7 +123,7 @@
     "full_name": "codeshow/003-arquitetura-flask",
     "stargazers_count": 172,
     "open_issues_count": 12,
-    "forks_count": 56
+    "forks_count": 55
   },
   {
     "full_name": "jonyw4/pagarme-js-types",
@@ -133,20 +133,20 @@
   },
   {
     "full_name": "CyberPunkMetalHead/Binance-volatility-trading-bot",
-    "stargazers_count": 3169,
+    "stargazers_count": 3170,
     "open_issues_count": 33,
     "forks_count": 755
   },
   {
     "full_name": "gcanti/io-ts",
-    "stargazers_count": 5477,
-    "open_issues_count": 133,
+    "stargazers_count": 5491,
+    "open_issues_count": 132,
     "forks_count": 287
   },
   {
     "full_name": "jthegedus/svelte-adapter-firebase",
-    "stargazers_count": 137,
-    "open_issues_count": 13,
+    "stargazers_count": 139,
+    "open_issues_count": 10,
     "forks_count": 29
   },
   {
@@ -159,19 +159,19 @@
     "full_name": "bundit/kord-app",
     "stargazers_count": 562,
     "open_issues_count": 42,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "svelte-add/svelte-add",
-    "stargazers_count": 768,
+    "stargazers_count": 771,
     "open_issues_count": 42,
     "forks_count": 16
   },
   {
     "full_name": "dasDaniel/svelte-table",
-    "stargazers_count": 319,
+    "stargazers_count": 322,
     "open_issues_count": 10,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "erkrnt/sample-web-frameworks",
