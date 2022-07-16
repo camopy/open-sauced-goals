@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Rich-Harris/svelte-cubed",
-    "stargazers_count": 1018,
+    "stargazers_count": 1020,
     "open_issues_count": 45,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "LottieFiles/svelte-lottie-player",
@@ -13,31 +13,31 @@
   },
   {
     "full_name": "xtaci/kcptun",
-    "stargazers_count": 12931,
+    "stargazers_count": 12932,
     "open_issues_count": 89,
-    "forks_count": 2494
+    "forks_count": 2495
   },
   {
     "full_name": "google/cadvisor",
-    "stargazers_count": 13603,
+    "stargazers_count": 13616,
     "open_issues_count": 573,
-    "forks_count": 2060
+    "forks_count": 2062
   },
   {
     "full_name": "sveltejs/svelte-scroller",
-    "stargazers_count": 248,
+    "stargazers_count": 249,
     "open_issues_count": 11,
     "forks_count": 28
   },
   {
     "full_name": "shopspring/decimal",
-    "stargazers_count": 4183,
+    "stargazers_count": 4186,
     "open_issues_count": 91,
-    "forks_count": 474
+    "forks_count": 475
   },
   {
     "full_name": "saniales/golang-crypto-trading-bot",
-    "stargazers_count": 809,
+    "stargazers_count": 808,
     "open_issues_count": 11,
     "forks_count": 209
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "pressly/goose",
-    "stargazers_count": 2813,
-    "open_issues_count": 41,
-    "forks_count": 344
+    "stargazers_count": 2820,
+    "open_issues_count": 40,
+    "forks_count": 345
   },
   {
     "full_name": "P0ssuidao/terraguard",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "go-ping/ping",
-    "stargazers_count": 961,
-    "open_issues_count": 33,
+    "stargazers_count": 963,
+    "open_issues_count": 34,
     "forks_count": 296
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "radovskyb/watcher",
-    "stargazers_count": 1210,
+    "stargazers_count": 1214,
     "open_issues_count": 45,
-    "forks_count": 149
+    "forks_count": 150
   },
   {
     "full_name": "zloylos/grsync",
@@ -85,43 +85,43 @@
   },
   {
     "full_name": "robfig/cron",
-    "stargazers_count": 9915,
-    "open_issues_count": 101,
+    "stargazers_count": 9931,
+    "open_issues_count": 102,
     "forks_count": 1398
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 7651,
-    "open_issues_count": 31,
+    "stargazers_count": 7698,
+    "open_issues_count": 30,
     "forks_count": 288
   },
   {
     "full_name": "rodrigo-brito/ninjabot",
-    "stargazers_count": 1004,
-    "open_issues_count": 14,
+    "stargazers_count": 1003,
+    "open_issues_count": 12,
     "forks_count": 100
   },
   {
     "full_name": "diamondburned/arikawa",
-    "stargazers_count": 323,
-    "open_issues_count": 14,
-    "forks_count": 45
+    "stargazers_count": 322,
+    "open_issues_count": 15,
+    "forks_count": 43
   },
   {
     "full_name": "bwmarrin/discordgo",
     "stargazers_count": 3175,
-    "open_issues_count": 90,
-    "forks_count": 606
+    "open_issues_count": 88,
+    "forks_count": 607
   },
   {
     "full_name": "udhos/update-golang",
-    "stargazers_count": 1487,
+    "stargazers_count": 1490,
     "open_issues_count": 2,
-    "forks_count": 188
+    "forks_count": 190
   },
   {
     "full_name": "codeshow/003-arquitetura-flask",
-    "stargazers_count": 175,
+    "stargazers_count": 174,
     "open_issues_count": 12,
     "forks_count": 55
   },
@@ -135,11 +135,11 @@
     "full_name": "CyberPunkMetalHead/Binance-volatility-trading-bot",
     "stargazers_count": 3178,
     "open_issues_count": 33,
-    "forks_count": 756
+    "forks_count": 755
   },
   {
     "full_name": "gcanti/io-ts",
-    "stargazers_count": 5552,
+    "stargazers_count": 5556,
     "open_issues_count": 133,
     "forks_count": 287
   },
@@ -163,14 +163,14 @@
   },
   {
     "full_name": "svelte-add/svelte-add",
-    "stargazers_count": 803,
-    "open_issues_count": 47,
+    "stargazers_count": 807,
+    "open_issues_count": 48,
     "forks_count": 18
   },
   {
     "full_name": "dasDaniel/svelte-table",
-    "stargazers_count": 326,
-    "open_issues_count": 10,
+    "stargazers_count": 325,
+    "open_issues_count": 11,
     "forks_count": 28
   },
   {
